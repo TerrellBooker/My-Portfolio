@@ -20,5 +20,5 @@ This is my personal portfolio website displaying my skills, projects, and experi
 
 ## How to Use
 
-1. Visit the [Live Website](https://<TerrellBooker>.github.io/my-portfolio).
+1. Visit the [Live Website](https://TerrellBooker.github.io/my-portfolio.
 2. Explore my projects, skills, and contact me through the form.
